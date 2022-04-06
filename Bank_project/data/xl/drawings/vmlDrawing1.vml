@@ -1,0 +1,125 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel">
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout><v:shapetype id="_x0000_t201" coordsize="21600,21600" o:spt="201"
+  path="m,l,21600r21600,l21600,xe">
+  <v:stroke joinstyle="miter"/>
+  <v:path shadowok="f" o:extrusionok="f" strokeok="f" fillok="f" o:connecttype="rect"/>
+  <o:lock v:ext="edit" shapetype="t"/>
+ </v:shapetype><v:shape id="CommandButton1" o:spid="_x0000_s1025" type="#_x0000_t201"
+  style='position:absolute;margin-left:13pt;margin-top:17.5pt;width:84.5pt;
+  height:26.5pt;z-index:1' fillcolor="white [9]" stroked="f" strokecolor="windowText [64]"
+  strokeweight="3e-5mm" o:insetmode="auto">
+  <v:fill color2="white [9]"/>
+  <v:imagedata o:relid="rId1" o:title=""/>
+  <v:shadow color="black" obscured="t"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    0, 26, 1, 6, 1, 97, 3, 1</x:Anchor>
+   <x:AutoFill>False</x:AutoFill>
+   <x:AutoLine>False</x:AutoLine>
+   <x:CF>Pict</x:CF>
+   <x:AutoPict/>
+   <x:MapOCX/>
+  </x:ClientData>
+ </v:shape><v:shape id="CommandButton2" o:spid="_x0000_s1028" type="#_x0000_t201"
+  style='position:absolute;margin-left:126.5pt;margin-top:18pt;width:84.5pt;
+  height:26.5pt;z-index:2' stroked="f" strokecolor="windowText [64]"
+  o:insetmode="auto">
+  <v:imagedata o:relid="rId2" o:title=""/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    2, 29, 1, 7, 3, 82, 3, 2</x:Anchor>
+   <x:AutoLine>False</x:AutoLine>
+   <x:CF>Pict</x:CF>
+   <x:AutoPict/>
+   <x:MapOCX/>
+  </x:ClientData>
+ </v:shape><v:shape id="CommandButton3" o:spid="_x0000_s1029" type="#_x0000_t201"
+  style='position:absolute;margin-left:228pt;margin-top:18pt;width:84.5pt;
+  height:26.5pt;z-index:3' stroked="f" strokecolor="windowText [64]"
+  o:insetmode="auto">
+  <v:imagedata o:relid="rId3" o:title=""/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    4, 18, 1, 7, 5, 55, 3, 2</x:Anchor>
+   <x:AutoLine>False</x:AutoLine>
+   <x:CF>Pict</x:CF>
+   <x:AutoPict/>
+   <x:MapOCX/>
+  </x:ClientData>
+ </v:shape><v:shape id="CommandButton4" o:spid="_x0000_s1030" type="#_x0000_t201"
+  style='position:absolute;margin-left:345.5pt;margin-top:15.5pt;width:79.5pt;
+  height:27pt;z-index:4' stroked="f" strokecolor="windowText [64]" o:insetmode="auto">
+  <v:imagedata o:relid="rId4" o:title=""/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 23, 1, 2, 7, 84, 2, 27</x:Anchor>
+   <x:AutoLine>False</x:AutoLine>
+   <x:CF>Pict</x:CF>
+   <x:MapOCX/>
+  </x:ClientData>
+ </v:shape><v:shape id="CommandButton5" o:spid="_x0000_s1031" type="#_x0000_t201"
+  style='position:absolute;margin-left:438pt;margin-top:18pt;width:84.5pt;
+  height:26.5pt;z-index:5' stroked="f" strokecolor="windowText [64]"
+  o:insetmode="auto">
+  <v:imagedata o:relid="rId5" o:title=""/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    8, 12, 1, 7, 9, 83, 3, 2</x:Anchor>
+   <x:AutoLine>False</x:AutoLine>
+   <x:CF>Pict</x:CF>
+   <x:AutoPict/>
+   <x:MapOCX/>
+  </x:ClientData>
+ </v:shape><v:shape id="CommandButton6" o:spid="_x0000_s1032" type="#_x0000_t201"
+  style='position:absolute;margin-left:532pt;margin-top:18pt;width:84.5pt;
+  height:26.5pt;z-index:6' stroked="f" strokecolor="windowText [64]"
+  o:insetmode="auto">
+  <v:imagedata o:relid="rId6" o:title=""/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    10, 4, 1, 7, 11, 75, 3, 2</x:Anchor>
+   <x:AutoLine>False</x:AutoLine>
+   <x:CF>Pict</x:CF>
+   <x:AutoPict/>
+   <x:MapOCX/>
+  </x:ClientData>
+ </v:shape><v:shape id="Image1" o:spid="_x0000_s1040" type="#_x0000_t201"
+  style='position:absolute;margin-left:119.5pt;margin-top:74.5pt;width:399pt;
+  height:167.5pt;z-index:7' stroked="f" strokecolor="windowText [64]"
+  o:insetmode="auto">
+  <v:imagedata o:relid="rId7" o:title=""/>
+  <x:ClientData ObjectType="Pict">
+   <x:MoveWithCells/>
+   <x:SizeWithCells/>
+   <x:Anchor>
+    2, 15, 5, 4, 9, 75, 16, 20</x:Anchor>
+   <x:Disabled/>
+   <x:AutoLine>False</x:AutoLine>
+   <x:CF>Pict</x:CF>
+   <x:AutoPict/>
+   <x:MapOCX/>
+  </x:ClientData>
+ </v:shape><v:shape id="CommandButton7" o:spid="_x0000_s1041" type="#_x0000_t201"
+  style='position:absolute;margin-left:285.5pt;margin-top:247pt;width:98.5pt;
+  height:31pt;z-index:8' stroked="f" strokecolor="windowText [64]" o:insetmode="auto">
+  <v:imagedata o:relid="rId8" o:title=""/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    5, 1, 17, 1, 7, 2, 19, 5</x:Anchor>
+   <x:AutoLine>False</x:AutoLine>
+   <x:CF>Pict</x:CF>
+   <x:AutoPict/>
+   <x:MapOCX/>
+  </x:ClientData>
+ </v:shape></xml>
